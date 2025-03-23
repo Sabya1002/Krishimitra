@@ -7,7 +7,6 @@ Flask
 scikit-learn
 requests
 Pillow
-gunicorn == 20.0.4
 Flask
 numpy
 pandas
